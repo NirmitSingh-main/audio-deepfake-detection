@@ -1,0 +1,15 @@
+# Ignore dataset
+DATASET/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
