@@ -69,6 +69,8 @@ The following machine learning models have been trained using MFCC features:
 * Gaussian Naive Bayes (**NB**)
 * Gradient Boosting (**GB**)
 * Artificial Neural Network (**ANN**)
+* XG Boosting
+
 
 📁 Saved in:
 
